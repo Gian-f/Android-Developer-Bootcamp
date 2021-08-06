@@ -1,3 +1,2 @@
-# Digital Innovation One
+# Bootcamp de Android Developer da Digital Innovation One
 
-### Trilha Kotlin

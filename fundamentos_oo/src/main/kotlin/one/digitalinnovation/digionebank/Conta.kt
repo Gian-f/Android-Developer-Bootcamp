@@ -1,7 +1,5 @@
 package one.digitalinnovation.digionebank
 
-import java.lang.IllegalArgumentException
-
 class Conta(
     val agencia: String,
     val numero: String
